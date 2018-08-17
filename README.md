@@ -8,13 +8,13 @@ These instruction will help you set up the project.
 
 ### Running the project
 
-Clone this repository to your machine.
+Clone this repository to your machine by doing this command.
 
 ```
 git clone REPO_PATH_WITH_SSH
 ```
 
-Go to the directory to locate app.js
+Go to the directory to locate app.js and run the project by doing this command.
 
 ```
 node app.js
